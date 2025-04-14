@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soy
-- 👀 I’m interested in Python/Django/PyQT
-- 🌱 I’m currently learning Django/React.js/Laravel
+- 👀 I’m interested in React, React Native, TypeScript
+- 🌱 I’m currently learning React.js, Django(FastAPI)
 - 📫 How to reach me <a href='mailto:shinysoy@gmail.com'>email</a> me
 
 <!---
